@@ -11,3 +11,10 @@ C:\Users\opilane\source\repos\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.cspr
 C:\Users\opilane\source\repos\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CopyComplete
 C:\Users\opilane\source\repos\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.exe
 C:\Users\opilane\source\repos\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.pdb
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csprojAssemblyReference.cache
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.Form1.resources
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.Properties.Resources.resources
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.GenerateResource.cache
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.exe
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.pdb

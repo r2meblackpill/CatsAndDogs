@@ -46,6 +46,26 @@ namespace CatsAndDogs
 
             return APIResponse;
         }
+        
+        public static string CallCatAPI()
+        {
+            string apiCall = "";
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create(apiCall);
+            request.Method = "GET";
+            var webResponse = request.GetResponse();
+            var webStream = webResponse.GetResponseStream();
 
+            string APIResponse;
+
+            using (var responseReader = new StreamReader(webStream))
+            {
+                var response = responseReader.ReadToEnd();
+                Cat cat = JsonConvert.DeserializeObject<Cat>(response);
+
+                APIResponse = cat.message;
+            }
+
+            return APIResponse;
+        }
     }
 }
