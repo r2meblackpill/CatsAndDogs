@@ -8,6 +8,6 @@ namespace CatsAndDogs
 {
     public class Cat
     {
-        public string message { get; set; }
+        public string url { get; set; }
     }
 }

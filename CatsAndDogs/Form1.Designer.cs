@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.dogPicture = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.catPicture = new System.Windows.Forms.PictureBox();
             this.getADog = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.getACat = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dogPicture)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.catPicture)).BeginInit();
             this.SuspendLayout();
             // 
             // dogPicture
@@ -45,13 +45,13 @@
             this.dogPicture.TabIndex = 0;
             this.dogPicture.TabStop = false;
             // 
-            // pictureBox2
+            // catPicture
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(13, 13);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(513, 591);
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
+            this.catPicture.Location = new System.Drawing.Point(13, 13);
+            this.catPicture.Name = "catPicture";
+            this.catPicture.Size = new System.Drawing.Size(513, 591);
+            this.catPicture.TabIndex = 1;
+            this.catPicture.TabStop = false;
             // 
             // getADog
             // 
@@ -63,28 +63,29 @@
             this.getADog.UseVisualStyleBackColor = true;
             this.getADog.Click += new System.EventHandler(this.getADog_Click);
             // 
-            // button2
+            // getACat
             // 
-            this.button2.Location = new System.Drawing.Point(190, 622);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.getACat.Location = new System.Drawing.Point(169, 622);
+            this.getACat.Name = "getACat";
+            this.getACat.Size = new System.Drawing.Size(130, 23);
+            this.getACat.TabIndex = 3;
+            this.getACat.Text = "Get an image of a Cat";
+            this.getACat.UseVisualStyleBackColor = true;
+            this.getACat.Click += new System.EventHandler(this.getACat_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1245, 666);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.getACat);
             this.Controls.Add(this.getADog);
-            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.catPicture);
             this.Controls.Add(this.dogPicture);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dogPicture)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.catPicture)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -92,9 +93,9 @@
         #endregion
 
         private System.Windows.Forms.PictureBox dogPicture;
-        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox catPicture;
         private System.Windows.Forms.Button getADog;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button getACat;
     }
 }
 

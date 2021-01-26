@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CatsAndDogs
 {
-    public class Dog
+    class Dog
     {
         public string message { get; set; }
     }

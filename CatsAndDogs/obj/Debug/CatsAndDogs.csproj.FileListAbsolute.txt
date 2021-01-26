@@ -18,3 +18,11 @@ C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.Generat
 C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CoreCompileInputs.cache
 C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.exe
 C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.pdb
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe.config
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.pdb
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CopyComplete
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\Nancy.dll
+C:\Users\Markus\Git\CatsAndDogs\CatsAndDogs\bin\Debug\Nancy.xml
